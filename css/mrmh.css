@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,dd,dl,img,h2,p,li,dt,h3,p,a{ padding:0; margin:0; border:0; list-style:none;}
+body{background-image: url(../img/dabeijing.jpg);
+	font-family:"宋体", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:2em;
+	color:#333;
+	text-decoration:none;}
+a,a:visted{ color:#333; text-decoration:none;}
+a:hover{ color:#c00;text-decoration: none;}
+a:link {
+	text-decoration: none;
+	color: #999;
+}
+a:active {
+	text-decoration: none;
+	color: #999;
+}
+
+h2{
+	font-family: "微软雅黑";
+	font-size: 20px;
+	line-height: 50px;
+	padding-left: 20px;
+	background-color: #F9F9F9;
+	color: #FFFFFF;
+}
+h3{
+	font-family: "微软雅黑";
+	font-size: 20px;
+	line-height: 50px;
+	padding-left: 20px;
+	background-color: #F8D8DD;
+	color: #FFFFFF;
+	}
+h4{
+	font-family: "微软雅黑";
+	font-size: 20px;
+	line-height: 50px;
+	padding-left: 20px;
+	background-color:#F8BB3A;
+	color: #FFFFFF;
+	}
+h5{
+	font-family: "微软雅黑";
+	font-size: 20px;
+	line-height: 50px;
+	padding-left: 20px;
+	background-color:#8BAD80;
+	color: #FFFFFF;
+	}
+

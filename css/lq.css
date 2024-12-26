@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+#container{
+	width:960px;
+	margin:5px auto;}
+#header .logo{
+	float:left;
+	}
+#header .dl{
+	float: right;
+	width: 100px;
+	margin: 30px 30px 0 0;
+	font-size: 16px;
+}
+#header .dl a{
+	text-decoration: none;
+	}
+#banner img:hover{
+	transform: scale(1.01);}
+.nav{
+	font-size: 12px;
+	height: 80px;
+	float:left;}
+.nav li{
+	float: left;
+	width: 192px;
+	text-align: center;
+	line-height: 80px;
+	background-color:#Ccc;
+}
+.nav li a{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	font-weight: bold;
+	display: block;
+	color: #FFF;
+	text-decoration: none;
+}
+.nav li a,a:visited{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	font-weight: bold;
+	display: block;
+	text-decoration: none;
+	background-color: #CCC;
+}
+.nav li a:hover {
+	background-color: #F00;
+}
+#pagebody{ overflow:hidden; margin:10px 0 0 0;}
+#pagebody a {
+	text-decoration: none;
+	color: #000
+}
+#pagebody .pgmiddle{
+	float:left;
+	width:300px;
+	margin-right:30px;}
+#pagebody .pgup{
+	height:200px;
+	back
+	}
+#pagebody dd{
+	text-align:center;
+	font-size:20px;
+	font-family:"宋体";
+	height:40px;}
+#pagebody img:hover{
+	transform: scale(1.01);}
+#footer{
+	width:960px;
+	text-align: center;
+	background: #Ccc;
+	line-height: 40px;
+	}
+#banner marquee {
+	font-size:16px;
+	line-height:30px;
+}
